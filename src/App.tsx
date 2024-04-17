@@ -1,10 +1,11 @@
 import './App.css';
 import {Header} from "./layout/header/Header";
 import {Main} from "./layout/sections/main/Main";
-import {useState} from "react";
+import React, {useState} from "react";
 import {Main1} from "./layout/sections/main/Main1";
 import {Works} from "./layout/sections/works/Works";
 import {Skills} from "./layout/sections/skills/Skills";
+import {Testimony} from "./layout/sections/testimony/Testimony";
 
 
 function App() {
@@ -21,6 +22,8 @@ function App() {
             <Main/>
             <Skills/>
             <Works/>
+            <Testimony/>
+            <h4>При твоем участии я бы смог закончить сайт визитку....</h4>
         </div>
     );
 }

@@ -35,7 +35,7 @@ export const Works = () => {
                 {/*<StyledPhoto src={photo2} alt=""/>*/}
                 {/*<StyledPhoto src={photo3} alt=""/>*/}
             </FlexWrapper>
-            <h4>При твоем участии я бы смог закончить сайт визитку....</h4>
+
 
         </StyledMain>
     );
