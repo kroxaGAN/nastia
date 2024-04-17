@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nastia/static/css/main.e6c13ad2.css",
-    "main.js": "/nastia/static/js/main.80b829b6.js",
+    "main.js": "/nastia/static/js/main.01e6a7a8.js",
     "static/js/787.25eaef86.chunk.js": "/nastia/static/js/787.25eaef86.chunk.js",
     "static/media/flowers.jpg": "/nastia/static/media/flowers.19d931b481f5bb6ef9fa.jpg",
     "static/media/shar.jpg": "/nastia/static/media/shar.c70fa72d7b7edc3d284f.jpg",
@@ -10,11 +10,11 @@
     "static/media/cat.webp": "/nastia/static/media/cat.8759045e8bd03ed2d915.webp",
     "index.html": "/nastia/index.html",
     "main.e6c13ad2.css.map": "/nastia/static/css/main.e6c13ad2.css.map",
-    "main.80b829b6.js.map": "/nastia/static/js/main.80b829b6.js.map",
+    "main.01e6a7a8.js.map": "/nastia/static/js/main.01e6a7a8.js.map",
     "787.25eaef86.chunk.js.map": "/nastia/static/js/787.25eaef86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.80b829b6.js"
+    "static/js/main.01e6a7a8.js"
   ]
 }
