@@ -1,5 +1,6 @@
 import React from 'react';
-import iconsSprite from '../../assets/images/foto shar_files/icons-sprite.svg'
+import iconsSprite from '../../assets/images/icon-sprite.svg'
+// import iconsSprite from '../../assets/images/foto shar_files/icons-sprite.svg'
 
 type IconPropsType = {
     iconId: string

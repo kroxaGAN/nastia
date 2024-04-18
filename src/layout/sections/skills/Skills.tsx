@@ -11,14 +11,14 @@ export const Skills = () => {
                 My Skills
             </SectionTitle>
             <FlexWrapper wrap={"wrap"} justify={"space-between"}>
-                <Skill iconId={"code"}
-                       title={"html5"}
+                <Skill iconId={"ballons"}
+                       title={"шары"}
                        description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim"}/>
-                <Skill iconId={"css"}
-                       title={"css"}
+                <Skill iconId={"flowers"}
+                       title={"цветы"}
                        description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim"}/>
-                <Skill iconId={"react"}
-                       title={"react"}
+                <Skill iconId={"champange"}
+                       title={"шампанское"}
                        description={"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim"}/>
                 <Skill iconId={"typeScript"}
                        title={"typescript"}
