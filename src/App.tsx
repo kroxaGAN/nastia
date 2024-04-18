@@ -7,6 +7,7 @@ import {Works} from "./layout/sections/works/Works";
 import {Skills} from "./layout/sections/skills/Skills";
 import {Testimony} from "./layout/sections/testimony/Testimony";
 import {Contact} from "./components/contact/Contact";
+import {Slogan} from "./layout/sections/slogan/Slogan";
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             <Works/>
             <Testimony/>
             <Contact/>
+            <Slogan/>
             <h4>При твоем участии я бы смог закончить сайт визитку....</h4>
         </div>
     );
