@@ -6,6 +6,7 @@ import {Main1} from "./layout/sections/main/Main1";
 import {Works} from "./layout/sections/works/Works";
 import {Skills} from "./layout/sections/skills/Skills";
 import {Testimony} from "./layout/sections/testimony/Testimony";
+import {Contact} from "./components/contact/Contact";
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
             <Skills/>
             <Works/>
             <Testimony/>
+            <Contact/>
             <h4>При твоем участии я бы смог закончить сайт визитку....</h4>
         </div>
     );

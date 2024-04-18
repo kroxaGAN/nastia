@@ -9,7 +9,7 @@ export const Main = () => {
             <FlexWrapper align={"center"} justify={"space-around"}>
                 <div>
                     <span>ВЭЛКАМ или давайте знакомиться</span>
-                    <Name>Я – Настя, Настенька, Настасья… Любые вариации приветствуются, кроме Ася.</Name>
+                    <Name>Я – Настя, Настенька, Настасья… </Name>
                     <Name> Любые вариации приветствуются, кроме Ася.</Name>
                     <MainTitle>занимаюсь флористикой, дизайном... </MainTitle>
                 </div>
