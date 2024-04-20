@@ -24,9 +24,8 @@ const StyledPhoto = styled.img`
   object-fit: cover;
   border-radius: 100px;
 `
-const StyledMain = styled.div`
+const StyledMain = styled.section`
   min-height: 70vh;
-  background-color: #dab1f3;
 `
 const MainTitle=styled.h1`
 `

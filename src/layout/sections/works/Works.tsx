@@ -47,9 +47,8 @@ export const Works = () => {
 //   border-radius: 50px;
 //   padding: 10px;
 // `
-const StyledMain = styled.div`
+const StyledMain = styled.section`
   min-height: 50vh;
-  background-color: #e8e3b0;
 `
 // const Name = styled.h2`
 //   justify-content: center`

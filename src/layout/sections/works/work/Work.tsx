@@ -21,7 +21,6 @@ export const Work = (props: WorkPropsType) => {
 };
 
 const StyledWork = styled.div`
-  background-color: #f8e6ac;
   max-width: 400px;
   width: 100%;
 `
